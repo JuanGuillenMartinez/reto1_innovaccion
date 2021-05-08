@@ -9,3 +9,7 @@ Esta es proporcionada como un servicio por empresas para ofrecer a todo el publi
 Estos eliminar el capital expenditor y solo utilizan operational expenditor para empezar a ser utilizados.
 ![Nube publica](https://i.ytimg.com/vi/nZ8e8R_Wsio/maxresdefault.jpg)
 
+# Clasificacion de la Nube
+# IaaS
+La infraestructura como servicio te provee infraestructura montada y lista para utilizar a los cliente y ellos se encargan del mantenimiento 
+![IaaS](https://www.kennertech.com.co/wp-content/uploads/2020/08/Infraestructura-y-Plataforma-IAAS-1.jpg)
