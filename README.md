@@ -13,3 +13,7 @@ Estos eliminar el capital expenditor y solo utilizan operational expenditor para
 # IaaS
 La infraestructura como servicio te provee infraestructura montada y lista para utilizar a los cliente y ellos se encargan del mantenimiento 
 ![IaaS](https://www.kennertech.com.co/wp-content/uploads/2020/08/Infraestructura-y-Plataforma-IAAS-1.jpg)
+
+# PaaS
+Plataforma como servicio ofrecen la plataforma para montar una aplicacion y darle uso sin necesidad de darle mantenimiento al hardware
+![IaaS](https://dhealthb.files.wordpress.com/2019/09/20190522p2.png)
